@@ -1,0 +1,27 @@
+.nnav{
+    background: linear-gradient(109.6deg, rgba(255, 220, 47, 0.732) 11.2%, rgba(245, 253, 0, 0.566) 100.2%);
+}
+.hh-100{height: 100vh;}
+.vh-100{height: 400px;}
+.b-br{border: 2px solid blue;}
+.ww-100{
+    height: 100px;
+    width: 60px;
+}
+.img-slide{
+    height: 100vh;
+    width: 100%;
+}
+.img-slide img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    position: relative;
+    position: absolute;
+}
+.card-part{
+    height: 250px;
+    /* width: 300px; */
+    border:2px solid black;
+}
